@@ -46,3 +46,9 @@ no link e tabela abaixo.</p>
   </tr>
 </table>
 <a href="https://archive.ics.uci.edu/dataset/10/automobile">Fonte dos dados</a>
+
+<h2>Acesse a análise pelo link:</h2>
+<a href="https://github.com/dimitriribeiro/predicting-prices/blob/master/pricing-preditivo.ipynb">Análise de preços de carros.</a>
+
+<h2>Dúvidas, sugestões,críticas:</h2>
+<p>dimitri.limaf@gmail.com</p>
